@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Pronto volvemos
+title: Volveremos Pronto
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Estamos trabajando para ti ...
+heading: Volveremos pronto
+subheading: Sitio en mantenimiento estamos trabajando para ti ...
 mainpitch:
   title: Why Kaldi
   description: >
