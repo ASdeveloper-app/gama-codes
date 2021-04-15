@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Volveremos Pronto
+title: Quiero un abrazo
 image: /img/home-jumbotron.jpg
 heading: Volveremos pronto
-subheading: Sitio en mantenimiento estamos trabajando para ti ...
+subheading: Te amo y te extraño amor
 mainpitch:
   title: Why Kaldi
   description: >
