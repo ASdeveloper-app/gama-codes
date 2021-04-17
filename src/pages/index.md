@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Volveremos pronto
+title: Me voy a robar la moto del moi
 image: /img/home-jumbotron.jpg
 heading: Volveremos pronto
 subheading: Sitio en mantenimiento, estamos trabajando para ti.
